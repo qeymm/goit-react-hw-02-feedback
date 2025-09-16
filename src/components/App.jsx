@@ -37,7 +37,7 @@ export class App extends Component {
 
     return (
       <>
-        <Section title="Please leave a feedback">
+        <Section title="PLEASE LEAVE FEEDBACK">
           <FeedbackOptions
             options={options}
             onLeaveFeedback={this.handleClick}

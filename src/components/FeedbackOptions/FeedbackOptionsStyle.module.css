@@ -9,4 +9,10 @@
   background-color: wheat;
   border: none;
   border-radius: 4px;
+  cursor: pointer;
+}
+
+.optionButton:active {
+  background-color: brown;
+  color: white;
 }
